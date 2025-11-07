@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\tiago\KCODE\Tese\game_eval_tool\eclipse-workspace-game-eval-util\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1288848795.index
+968440790.index
+1561986472.index

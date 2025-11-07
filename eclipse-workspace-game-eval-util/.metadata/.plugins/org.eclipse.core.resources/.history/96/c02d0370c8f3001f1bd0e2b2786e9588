@@ -1,0 +1,19 @@
+import app.StartDesktopApp;
+
+/**
+ * The main method of this launches the Ludii application with its GUI, and registers
+ * the example AIs from this project such that they are available inside the GUI.
+ */
+public class LaunchLudii
+{
+	/**
+	 * The main method
+	 * @param args
+	 */
+	public static void main(final String[] args)
+	{
+		// Run Ludii
+		StartDesktopApp.main(new String[0]);
+	}
+
+}
